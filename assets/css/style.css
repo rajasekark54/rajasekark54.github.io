@@ -1096,3 +1096,8 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+.social-leetcode {
+  max-width: 16%;
+  padding-top: 4%;
+}
