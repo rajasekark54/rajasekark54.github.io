@@ -1097,7 +1097,7 @@ section .container {
   }
 }
 
-.social-leetcode {
-  max-width: 16%;
-  padding-top: 4%;
+.social-font-awesome {
+  font-size: 41px !important;
+  padding-top: 1%;
 }
