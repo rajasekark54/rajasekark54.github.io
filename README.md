@@ -1,5 +1,15 @@
-# Personal Portfolio 🔥
+# Rajasekar Kannan — Engineering Portfolio
 > https://rajasekar-kannan.github.io/
+
+This portfolio presents Rajasekar Kannan's 10+ years of software-engineering
+experience across backend systems, cloud-native applications, Python, Node.js,
+TypeScript and test automation, with a focused learning and portfolio track in
+Generative AI, Agentic AI, LLM applications and AI evaluation.
+
+AI projects are labelled as portfolio or study work unless a professional
+engagement is explicitly identified. This keeps the profile technically
+ambitious while preserving an accurate distinction between client delivery,
+independent projects and current learning.
 
 :star: Star me on GitHub — it helps!
 
@@ -24,15 +34,13 @@
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
 
 ## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+✔️ AI-first profile and engineering focus\
+✔️ Selected outcomes and career timeline\
+✔️ Client and product engagements grouped by employer\
+✔️ AI/ML portfolio projects and GenAI/Agentic AI study track\
+✔️ Python, Node.js, cloud, data, observability and testing skills\
+✔️ Education, online credentials and coding profiles\
+✔️ Contact information
 
 
 
